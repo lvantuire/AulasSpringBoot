@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01cb227b-dc7f-442c-a35a-4606793aca56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../UtilizandoBeans/src/main/java/InjecaodeDependencia/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UtilizandoBeans/src/main/java/InjecaodeDependencia/Condutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UtilizandoBeans/src/main/java/InjecaodeDependencia/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UtilizandoBeans/src/main/java/InjecaodeDependencia/Veiculo.java" afterDir="false" />
-    </list>
+    <list default="true" id="01cb227b-dc7f-442c-a35a-4606793aca56" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dio-experts-spring-boot-java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
